@@ -1,4 +1,4 @@
-# Hi, I'm Shiva
+## Hi, I'm Shiva
 
 Microsoft Certified Data Analyst (PL-300) with a strong background in business operations, performance monitoring, and stakeholder management.
 Throughout my 10+ years in operations and team leadership roles, I regularly worked with performance metrics, analyzed complaint and service trends, and tracked operational KPIs to improve efficiency and customer outcomes. This exposure to data-driven decision-making led me to formally transition into analytics through structured upskilling and hands-on project execution.
@@ -21,9 +21,9 @@ Performed end-to-end analysis using joins, CTEs, and window functions to identif
 Developed a branch-level performance dashboard with DAX-driven KPIs and Row-Level Security (RLS), supporting leadership decision-making and operational optimization.
 
 ### Certifications
-Microsoft Certified: Power BI Data Analyst Associate (PL-300)
-Data Science Bootcamp - OdinSchool
-Problem-Solving & Decision-Making - Coursera
+* Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+* Data Science Bootcamp - OdinSchool
+* Problem-Solving & Decision-Making - Coursera
 
 ### Open To
 Data Analyst roles where I can combine business understanding, structured problem-solving, and technical analytics skills to drive performance improvement.
