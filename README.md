@@ -1,4 +1,4 @@
-## Hi, I'm Shiva
+## Hi, I am Shiva
 
 Microsoft Certified Data Analyst (PL-300) with a strong background in business operations, performance monitoring, and stakeholder management.
 Throughout my 10+ years in operations and team leadership roles, I regularly worked with performance metrics, analyzed complaint and service trends, and tracked operational KPIs to improve efficiency and customer outcomes. This exposure to data-driven decision-making led me to formally transition into analytics through structured upskilling and hands-on project execution.
